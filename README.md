@@ -3,8 +3,8 @@
 Mental health is a crucial social issue that needs clear attention. Mental health problems have various causes, and a person's overall health depends on their physical, social, and mental well-being. We are particularly interested in studying how a person's history of mental illness is linked to their income. While it's commonly believed that lower income is associated with higher levels of mental illness due to financial stress and limited resources, the reality is more complex. This project aims to examine the intersection of income and mental health by using KMeans clustering to identify patterns among respondents based on their income levels and history of mental illness.
 
 >[!TIP]
->For a deeper dive into the data and methods used in this project, please check out the <code>Income_MentalHealth_Analysis.ipynb</code> notebook. Whether you're interested in the technical details or the insights derived from the analysis, the notebook provides a comprehensive overview of the entire project.
-
+>For a deeper dive into the data and methods used in this project, please check out the <code>Income_MentalHealth_Analysis.ipynb</code>[^1] notebook. Whether you're interested in the technical details or the insights derived from the analysis, the notebook provides a comprehensive overview of the entire project.
+[^1]: You can download the <code>Income_MentalHealth_Analysis.ipynb</code> notebook directly from this repository and run it in your own Jupyter Lab environment. This allows you to explore the data, modify the analysis, and see the results firsthand.
 ## Communicate Results
 <img width="1337" alt="Screenshot 2024-08-31 at 10 42 29 AM" src="https://github.com/user-attachments/assets/94315a6e-0b51-474b-9774-dc41b7d3e916">
 A visual representation of the clusters, captured from the Notebook <code>Income_MentalHealth_Analysis.ipynb</code>
