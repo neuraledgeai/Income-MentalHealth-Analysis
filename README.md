@@ -1,1 +1,4 @@
-# Income-MentalHealth-Analysis
+# Exploring the Complex Relationship Between Income Levels and Mental Health: Insights and Realities
+## Introduction
+Mental health is a crucial social issue that needs clear attention. Mental health problems have various causes, and a person's overall health depends on their physical, social, and mental well-being. We are particularly interested in studying how a person's history of mental illness is linked to their income. While it's commonly believed that lower income is associated with higher levels of mental illness due to financial stress and limited resources, the reality is more complex. This project aims to examine the intersection of income and mental health by using KMeans clustering to identify patterns among respondents based on their income levels and history of mental illness.
+## Communicate Results
